@@ -1,6 +1,6 @@
 <html>
 <body>
 <body style="background-color:powderblue;">
-<h4>This is Application2 and deployed using Jenkins</h4>
+<h1>This is Application2 and deployed using Jenkins</h1>
 </body>
 </html>
